@@ -12,8 +12,9 @@
   width: 300px;
   height: 300px;
   border: 1px solid #544739;
-  border-radius: 5px;
+  border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: whitesmoke;
 }
 
 .input-container {
@@ -25,6 +26,7 @@
 .input-container input {
   background-color: transparent;
   border: 1px solid black;
+  border-radius: 5px;
 }
 
 .btn-container {
@@ -39,7 +41,6 @@
   border: none;
   border-radius: 5px;
   background-color: #957e65;
-  color: white;
   cursor: pointer;
 }
 
